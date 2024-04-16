@@ -1,0 +1,3 @@
+molecule==6.0.2
+molecule-plugins==23.5.0
+ansible-modules-hashivault==5.1.1
