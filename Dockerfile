@@ -1,4 +1,4 @@
-FROM python:3.12-slim-bookworm
+FROM python:3.13-slim-bookworm
 
 ARG ANSIBLE_VERSION=8.2.0
 RUN pip install ansible==${ANSIBLE_VERSION}
